@@ -1,5 +1,4 @@
-# ELEVATELABS_TASK5
-## Network traffic analyses using Wireshark
+# Network traffic analyses using Wireshark
 Deliverables: A packet capture (.pcap) file and a short report of protocols identified along with scanned results screenshots.
 
 ---
